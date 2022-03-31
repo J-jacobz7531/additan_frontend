@@ -1,1 +1,1 @@
-This is a prototpye for the Konect platform
+This is a prototpye for the Ad-ditans platform
